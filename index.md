@@ -12,5 +12,4 @@ This is a *short* description of the mentioned book from _Chad Fowler_.
 * skills - keeping them up to date
 * marketing - plans to do for yourself
 
-![Chad Fowler - My Job went to India](https://miro.medium.com/max/3150/0*NhPUcO-FwcOGbu-X.jpega
-)
+<img src="https://miro.medium.com/max/3150/0*NhPUcO-FwcOGbu-X.jpeg"/>
