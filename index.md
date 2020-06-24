@@ -12,3 +12,7 @@ This is a *short* description of the mentioned book from _Chad Fowler_.
 * skills - keeping them up to date
 * marketing - plans to do for yourself
 
+Cite:
+> Developing software is not a thing, a noun. Instead, developing software is a *verb*, it is a process of
+> creating things.
+
